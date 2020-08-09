@@ -7,9 +7,8 @@ Installation:
 3- Go here "https://discord.com/developers/applications" and create and application 
   i- Names , Description will be your discord presence
   ii- You can edit them in your "Rich Presence" options
-4- Go to your server.cfg and comment "ensure bazq-discordrp"
-5- Enjoy.
-
+4- Edit discord.lua for your texts and other functions
+5- Go to your server.cfg and comment "ensure bazq-discordrp"
 ______________________________________________
 Thanks Jeva for credit.
 Check his page https://github.com/jevajs
