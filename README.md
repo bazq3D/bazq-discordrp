@@ -10,9 +10,9 @@ Installation:
 
 3- Go here "https://discord.com/developers/applications" and create an application
 
-  i- Names , Description will be your discord presence
+     i- Names , Description will be your discord presence
   
-  ii- You can edit them in your "Rich Presence" options
+     ii- You can edit them in your "Rich Presence" options
   
 4- Edit discord.lua for your texts and other functions
 
