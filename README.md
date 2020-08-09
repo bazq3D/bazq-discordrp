@@ -9,3 +9,7 @@ Installation:
   ii- You can edit them in your "Rich Presence" options
 4- Go to your server.cfg and comment "ensure bazq-discordrp"
 5- Enjoy.
+
+______________________________________________
+Thanks Jeva for credit.
+Check his page https://github.com/jevajs
