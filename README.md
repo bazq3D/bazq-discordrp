@@ -8,7 +8,7 @@ Installation:
 
 2- Paste it to your resources folder
 
-3- Go here "https://discord.com/developers/applications" and create and application
+3- Go here "https://discord.com/developers/applications" and create an application
 
   i- Names , Description will be your discord presence
   
